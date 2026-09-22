@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="RepInsight">
+  <rect width="64" height="64" rx="16" fill="#050505"/>
+  <rect x="17" y="13" width="8" height="38" rx="4" fill="#ff8066"/>
+  <path d="M32 17h7.5C48 17 53 21.2 53 28.4c0 5-2.5 8.5-7.2 10.2L54 51H43.6l-7-11H32V51h-8V17h8Zm0 7v9h7c3.7 0 5.7-1.5 5.7-4.6S42.7 24 39 24h-7Z" fill="#fff"/>
+</svg>
