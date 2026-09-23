@@ -4,7 +4,7 @@ GitHub Pagesで `https://repinsight.jp` へ公開するための静的サイト�
 
 ## 公開前に必ず行うこと
 
-1. 法務ページ末尾の運営者名が `NAKAYAMA RIKUTO（中山 力人）` で統一されていることを確認する。
+1. 法務ページ末尾の運営者名が `Rikuto Nakayama` で統一されていることを確認する。
 2. `support@repinsight.jp` と `privacy@repinsight.jp` の送受信を確認する。
 3. 各HTMLが `index,follow` で公開されていることを確認する。
 4. 各ページに「公開前ドラフト」表示が残っていないことを確認する。
