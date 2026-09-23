@@ -206,6 +206,13 @@ ol {
   font-size: 0.875rem;
 }
 
+.operator-meta {
+  margin-top: 24px;
+  color: var(--secondary-ink);
+  font-size: 0.875rem;
+  text-align: right;
+}
+
 .card-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
